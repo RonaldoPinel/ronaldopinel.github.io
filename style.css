@@ -22,13 +22,7 @@ header{
     margin: 0 auto;
     padding: 10px 10px 30px 10px;
 }
-.cabeçalho .imagemcruz{
-    width: 24px;
-    height: 42px;
-    position: absolute;
-    top: 3px;
-    height: -15px;
-    right: 35px
+
 }
 .dados_pessoais{
     margin: 20px auto 0px;
@@ -140,13 +134,10 @@ footer div .direitos{
     
     }
 
-    .cabeçalho .imagemcruz{
-        width: 42px;
-        height: 58px;
-        position: absolute;
-        top: -11px;
-        height: -2px;
-        right: 140px;
+    
+        
+       
+        
     }
 
     header div img{
